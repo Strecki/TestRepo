@@ -1,6 +1,6 @@
 package root;
 
-public class Root {
+public class Main {
 
 	/**
 	 * @param args
