@@ -7,6 +7,7 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		System.out.println("erster Print");
+		System.out.println("zweiter print");
 
 	}
 
